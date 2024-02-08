@@ -1,0 +1,12 @@
+{
+  "username" : "Rahil",
+  "password": "123",
+  "endpoint" : "/todos/1",
+  "userAdd" : "/api/users",
+  "languages" : ["english","hindi","sanskrit"],
+  "contact":
+          ["email:info.rahil@gmail.com",
+          "phno: 987090912",
+            "name : TestUser"
+          ]
+}

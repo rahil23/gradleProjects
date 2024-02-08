@@ -1,0 +1,11 @@
+<suite name = "API Smoke Test case">
+    <listener>
+        <listener class-name ="utils.RetryListener"/>
+    </listener>
+    <test name  = "Api Users test Cases">
+        <classes>
+            <class name = "userManagement.GetUsers" />
+        </classes>
+    </test>
+
+</suite>
